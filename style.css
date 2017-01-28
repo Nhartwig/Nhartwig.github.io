@@ -1,0 +1,51 @@
+body{
+	
+	background-color: #CCC;
+	color: black;
+	
+}
+ 
+ h1, h2{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+ 	text-align: center;
+ }
+ 
+ .thumb{
+    background-color: #CCC;
+    background-image: url("future_hendrix.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid #DDD;
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+#contain{
+    background-size: contain;
+    -moz-background-size: contain;
+}
+ 
+ 
+  h4, h5{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+ 	text-align: center;
+ }
+ 
+
+ 
+ h3 {
+		font-family: 'Changa', sans-serif;
+		color: white;
+ }
+ 
+img {
+	opacity:0.5;
+	
+}
+img:hover {
+	opacity:1.0;
+	
+}
+ 
+ 
