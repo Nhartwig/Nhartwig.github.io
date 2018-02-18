@@ -22,6 +22,16 @@
   	[The "base.scss" contains basic default element styles
   		(colors, typography, margins & padding).]
 ------------------------------------------------------------------*/
+
+/*-------------------Nate's Images-------------------------
+---------------------------------------------------------*/
+
+avatar {
+	/* background-image: url('img/profile_cropped_greyscale.jpg') */
+    vertical-align: middle;
+    border-radius: 50%;	
+}
+
 html {
   overflow-x: hidden;
 }
